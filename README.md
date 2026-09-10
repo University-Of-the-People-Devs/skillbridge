@@ -8,7 +8,7 @@ The project is being built collaboratively by students from the University of th
 
 ---
 
-## 🌍 Our Vision
+### 🌍 Our Vision
 
 To create a global ecosystem where students and emerging developers can turn their skills into real-world experience by collaborating with people from different countries, backgrounds, and areas of expertise.
 
