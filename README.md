@@ -188,3 +188,97 @@ If you believe in the vision, consider:
 * 🌍 Sharing the project with other students and developers
 
 **SkillBridge — Building opportunities through collaboration.**
+
+## Getting Started for Contributors
+
+Want to contribute to SkillBridge? Start here.
+
+### 1. Understand the Project
+
+Read the following documents before contributing:
+
+- [Project Vision](docs/vision.md)
+- [Product Requirements](docs/product-requirements.md)
+- [Technical Architecture](docs/architecture.md)
+- [Development Roadmap](docs/roadmap.md)
+- [Contributor Guide](docs/contributor-guide.md)
+
+### 2. Find an Issue
+
+Visit the GitHub Issues section and look for tasks that match your skills and experience.
+
+Useful labels include:
+
+- `good first issue`
+- `help wanted`
+- `beginner`
+- `intermediate`
+- `advanced`
+- `frontend`
+- `ui/ux`
+- `research`
+- `github`
+- `testing`
+- `mobile`
+- `documentation`
+
+### 3. Introduce Your Approach
+
+Before starting significant work, comment on the issue you want to contribute to.
+
+Briefly explain:
+
+- What you understand about the task
+- How you plan to approach it
+- Any ideas or questions you have
+
+This helps contributors avoid duplicated work and gives the community an opportunity to discuss the approach.
+
+### 4. Work on Your Contribution
+
+Once the approach is agreed upon:
+
+1. Fork the repository
+2. Create a branch
+3. Make your changes
+4. Test your work
+5. Commit your changes
+6. Push your branch
+7. Open a Pull Request
+
+Follow the contribution standards in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+### 5. Participate in the Community
+
+SkillBridge is more than code.
+
+You can contribute through:
+
+- Development
+- UI/UX design
+- Research
+- Testing
+- Documentation
+- Security
+- DevOps
+- GitHub integration
+- Mobile UX
+- Community building
+- Ideas and discussions
+
+Join [GitHub Discussions](../../discussions) to introduce yourself, share ideas, ask questions, and collaborate with other contributors.
+
+### 6. Important Community Guidelines
+
+Before participating, please read:
+
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security Policy](SECURITY.md)
+- [Support Guide](SUPPORT.md)
+- [Contributor Guide](docs/contributor-guide.md)
+
+Every contribution matters.
+
+SkillBridge is built by contributors from different backgrounds, countries, and skill levels working together toward the same goal.
+
+**Learn → Connect → Collaborate → Build → Prove → Grow**
